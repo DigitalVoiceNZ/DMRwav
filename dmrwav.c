@@ -1,8 +1,13 @@
 /*
-    DMRBot - ChatGPT Voice Bot for DMR
+    DMRwav - make wav files of individual DMR transmissions
+
+    Copyright 2024 James Tittsler ZL2IA / AI8A
+
+    Based on code from: 
+    DMRBot - ChatGPT Voice Bot for DMR  https://github.com/narspt/DMRBot
     Copyright (C) 2023 Nuno Silva
 
-    Based on code from:
+    Which was in turn based on code from:
     reflector_connectors	https://github.com/nostar/reflector_connectors
     MMDVM_CM	https://github.com/juribeparada/MMDVM_CM
 

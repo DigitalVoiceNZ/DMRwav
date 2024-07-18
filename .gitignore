@@ -1,0 +1,15 @@
+dmrwav
+*.json
+DMRIds*
+# audio files
+*.wav
+*.mp3
+*.m4a
+# editor debris
+*~
+.#*
+._*
+.*.sw?
+# macOS debris
+**/.DS_Store
+
